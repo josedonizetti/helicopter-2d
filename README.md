@@ -1,5 +1,5 @@
-helicopter-2d
-=============
+#helicopter-2d
 
-very simple helicopter 2d game
-http://helicopter-2d.herokuapp.com/
+Simple 2d game developed with coffescript and
+html5 canvas. The basic engine is all working,
+though it need better images.
